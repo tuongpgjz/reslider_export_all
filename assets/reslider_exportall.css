@@ -1,0 +1,23 @@
+.tls-exportall {
+    border: 1px dashed #ddd;
+    background: transparent;
+    box-sizing: border-box;
+    overflow: hidden;
+}
+
+.tls-exportall:hover, .tls-exportall:focus{
+	border: 1px solid #242424;
+}
+
+.exportall_icon {
+    background-image: url(export_all.png);
+}
+
+.tls-exportall .tls-title-wrapper{
+	background-color: #2c8ac8;
+}
+
+.tls-exportall .tls-title-wrapper .tls-title{
+	color: #fff;
+	font-weight: 700;
+}
