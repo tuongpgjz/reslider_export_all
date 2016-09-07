@@ -5,5 +5,5 @@ I’ve worked on ThemeForest in 2 years. Sometimes, I want to export all slides 
 That's why I create this plugin for theme authors
 
 
-<a href="https://kingcomposer.com" target="_blank">KingComposer page builder</a>
+<a href="https://kingcomposer.com" target="_blank">KingComposer page builder</a><br>
 <a href="http://arkahost.com" target="_blank">Arkahost WordPress hosting theme</a>
