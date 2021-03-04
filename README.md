@@ -5,5 +5,5 @@ I’ve worked on ThemeForest in 2 years. Sometimes, I want to export all slides 
 That's why I create this plugin for theme authors
 
 
-<a href="https://kingcomposer.com" target="_blank">KingComposer page builder</a><br>
-<a href="http://arkahost.com" target="_blank">Arkahost WordPress hosting theme</a>
+<a href="https://salesnudge.io/product/upsell-blast-woocommerce/" rel="nofollow" target="_blank">Upsell Blast for WooCommerce</a><br>
+<a href="https://yotuwp.com" target="_blank" rel="nofollow">YotuWP YouTube Video Gallery</a><br>
